@@ -66,4 +66,4 @@ Auto Scaling: Configure read/write auto-scaling for dynamic workloads.
 
 ### RESULTS
 
-  Successfully create a DynamoDB table and manage data entries, Efficiently use DynamoDB’s querying and filtering options to retrieve data, Demonstrate basic CRUD operations using the AWS SDK, Gain insights into advanced DynamoDB features like GSIs and DynamoDB Streams.
+  Successfully create a DynamoDB table and manage data entries, Efficiently use DynamoDB’s querying and filtering options to retrieve data.
