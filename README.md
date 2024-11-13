@@ -50,6 +50,9 @@ Amazon DynamoDB is a fully managed NoSQL database service provided by AWS. It's 
    - Add attributes such as `ItemID`, `Description`, `Status`, etc.
    - Click **Save** to store the item.
 
+![db4](https://github.com/user-attachments/assets/1d6ff9d8-f5f4-459b-baf9-dcb0718f249f)
+
+
 
 ### 4. Querying Data
    - Navigate to the **Items** tab of your table.
