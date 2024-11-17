@@ -1,6 +1,6 @@
 # EX-07-Overview-of-DynamoDB-in-AWS
 
-**Name** : Yuvaraj B
+**Name** : Yuvaraj B<br>
 **Reg No** : 212222040186
 
 ## Aim
