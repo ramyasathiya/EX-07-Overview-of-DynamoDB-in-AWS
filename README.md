@@ -1,7 +1,7 @@
 # EX-07-Overview-of-DynamoDB-in-AWS
 
-**Name** : Yuvaraj B<br>
-**Reg No** : 212222040186
+**Name** : RAMYA S<br>
+**Reg No** : 212222040130
 
 ## Aim
 To understand and perform basic operations in Amazon DynamoDB, including table creation, item insertion, querying, and experimenting with simple data operations using the AWS SDK.
